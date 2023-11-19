@@ -48,7 +48,7 @@ If you would like to contribute to improving this project, please create an issu
 
 [MIT License](LICENSE)
 
-telegram id : Volcanocoder ,
+telegram id : Volcanocoder 
 
 instagram id : Volcanocoder
 
