@@ -2,7 +2,7 @@
 
 Subtitle Translation Converter
 
-🍻 How to install:
+# How to install 🍻:
 
 1. Install the required libraries:
 
@@ -18,7 +18,7 @@ password : 1
 
 enjoy itttttttttttttttttt !👀👀👀
 
-🌴 Description :
+# Description 🌴:
 
 this is a subtitle creator and translator AI bot programmed with Python 3.10.7. This project is a simple graphical user interface (GUI) application using Tkinter libraries to translate subtitles of a movie from one language to another. 
 the subtitle texts will be seprated paragraph by paragraph and replaced by the translated scripts. Google translator is used for the translation engine. You can translate your files in a wide variety of languages. 
@@ -48,7 +48,7 @@ If you would like to contribute to improving this project, please create an issu
 
 [MIT License](LICENSE)
 
-telegram id : Volcanocoder
+telegram id : Volcanocoder ,
 
 instagram id : Volcanocoder
 
