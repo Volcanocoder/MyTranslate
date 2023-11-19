@@ -7,9 +7,14 @@ Subtitle Translation Converter
 1. Install the required libraries:
 
 pip install googletrans==4.0.0-rc1
+
 pip install srt
 
 2. Run the application:
+
+username : 1
+
+password : 1
 
 enjoy itttttttttttttttttt !👀👀👀
 
@@ -44,6 +49,7 @@ If you would like to contribute to improving this project, please create an issu
 [MIT License](LICENSE)
 
 telegram id : Volcanocoder
+
 instagram id : Volcanocoder
 
 
